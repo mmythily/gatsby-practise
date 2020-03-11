@@ -12,7 +12,6 @@ export default function about() {
       <h2>Progressive Web Apps</h2>
       <h2>Single Page Websites</h2>
       <h2>WCAG Compliant Services</h2>
-      <Link to='/'>Home</Link>
     </Layout>
   )
 }
