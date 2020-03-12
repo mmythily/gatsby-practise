@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-const Menu = () => {
+const Nav = () => {
   return (
     <div
       style={{
@@ -25,4 +25,4 @@ const Menu = () => {
   )
 }
 
-export default Menu
+export default Nav
